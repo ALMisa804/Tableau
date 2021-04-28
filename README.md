@@ -1,6 +1,6 @@
 Effects of the Covid-19 pandemic on Citi Bike ridership:
 
-Beginning in March of 2020, the Covid-19 pandemic drastically changed many aspects of life worldwide. This Tableau worksheet compares data collected on Citi bike riders from February of 2020 last year right before the pandemic started andin February of 2021. We can see how changes brought on by the pandemic have affected bike riders in the New York City Metropolitan Area.
+Beginning in March of 2020, the Covid-19 pandemic drastically changed many aspects of life worldwide. This Tableau worksheet compares data collected on Citi bike riders from February of 2020 last year before the pandemic started and in February of 2021. We can see how changes brought on by the pandemic have affected bike riders in the New York City Metropolitan Area.
 
 There was a only a slight decline with 876 less riders this February compared to last. However there are some drastic changes. People around 50 made up 8.5% of riders last year and now they make up 89%. These changes can possibly be attributed to economic reasons with people laid off, looking for jobs or going to work farther away. Local government outreach and assistance to people in this age group may be necessary.  
 
